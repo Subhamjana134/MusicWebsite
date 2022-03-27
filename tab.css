@@ -1,0 +1,29 @@
+
+/* tablet  */
+@media only screen and (max-width: 1280px) { 
+    li a{
+        padding: 10px 12px;
+    }
+    ul{
+        right: 45px;
+    }
+    .btn{
+        left: 127px;
+        padding: 3px;
+    }
+    #introsection::before{
+        height: 62%;
+    }
+    #introsection p{
+        font-size: 18px;
+    }
+    #services h1{
+        padding-top: 115px;
+    }
+    #services p{
+        font-size: 13px;
+    }
+    #client h1{
+        padding-top: 32px;
+    }
+}
