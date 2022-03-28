@@ -1,0 +1,12 @@
+@media only screen and (max-width: 1280px){
+    li a{
+        padding: 10px 12px;
+    }
+    ul{
+        right: 45px;
+    }
+    .btn{
+        left: 127px;
+        padding: 3px;
+    }
+}
